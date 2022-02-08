@@ -9,3 +9,4 @@
 - 😄 Pronouns: HE / HIS
 - ⚡ Fun fact: I try to learn everything and failed everytime.
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=MDASHRAFTANVIR&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
