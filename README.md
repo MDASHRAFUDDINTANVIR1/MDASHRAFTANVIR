@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about HTML, CSS, JAVA SCRIPT & PYTHON.
-- 📫 How to reach me: Linkedin :[Linkedin - @AshrafTanvir] (https://www.linkedin.com/in/ashraf-tanvir-043864223/)
+- 📫 How to reach me: Linkedin :Linkedin -(https://www.linkedin.com/in/ashraf-tanvir-043864223/)
 - 😄 Pronouns: HE / HIS
 - ⚡ Fun fact: I try to learn everything and failed everytime.
 -->
