@@ -29,8 +29,13 @@
 <p>&nbsp;
 
 
-:zap: GitHub Stats
-
-<img align="left" alt="TANVIR's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashraf-tanvir-official&show_icons=true&hide_border=true&count_private=true" />
+<details open="">
+  <summary><b>📈 GitHub Stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFTANVIR"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MDASHRAFTANVIR&theme=highcontrast"/></a>
+    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFTANVIR"><img alt="Tanvir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MDASHRAFTANVIR&show_icons=true&theme=merko" width=55%/></a>
+    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFTANVIR"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDASHRAFTANVIR&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+  
+</details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-tanvir-official&" alt="ashraf-tanvir-official" /></p>
