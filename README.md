@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraf-tanvir-official&show_icons=true&locale=en&layout=compact" alt="ashraf-tanvir-official" /></p>
 
-<p>&nbsp;[![ASHRAF's github stats](https://github-readme-stats.vercel.app/api?username=ashraf-tanvir-official)]</p>
+<p>&nbsp;[!(https://github-readme-stats.vercel.app/api?username=ashraf-tanvir-official)]</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-tanvir-official&" alt="ashraf-tanvir-official" /></p>
