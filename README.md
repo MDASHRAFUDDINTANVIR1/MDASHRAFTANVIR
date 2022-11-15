@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)](https://ashraf-tanvir-official.io)
 <h1 align="center">Hi 👋, I'm Ashraf Tanvir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2uK850dB--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_66,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf-tanvir-official&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf-tanvir-official" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashraftanvir12" target="blank"><img src="https://img.shields.io/twitter/follow/ashraftanvir12?logo=twitter&style=for-the-badge" alt="ashraftanvir12" /></a> </p>
