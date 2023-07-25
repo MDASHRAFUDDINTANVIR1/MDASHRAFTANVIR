@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf-tanvir-official&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf-tanvir-official" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashraftanvir12" target="blank"><img src="https://img.shields.io/twitter/follow/ashraftanvir12?logo=twitter&style=for-the-badge" alt="ashraftanvir12" /></a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/mdashrafuddintanvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashrafuddintanvir" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on **HIGH5Tech**
 
