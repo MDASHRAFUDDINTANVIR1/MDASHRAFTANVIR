@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraf-tanvir-official&label=Profile%20views&color=0e75b6&style=flat" alt="ashraf-tanvir-official" /> </p>
 
-<p align="left"><a href="https://www.linkedin.com/in/mdashrafuddintanvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashrafuddintanvir" height="30" width="40" /></a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/mdashrafuddintanvir1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdashrafuddintanvir" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on **QUESTION ACE**
 
@@ -28,8 +28,8 @@
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFTANVIR"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MDASHRAFTANVIR&theme=highcontrast"/></a>
-    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFTANVIR"><img alt="Tanvir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MDASHRAFTANVIR&show_icons=true&theme=merko" width=55%/></a>
-    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFTANVIR"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDASHRAFTANVIR&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
+    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFUDDINTANVIR1"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MDASHRAFUDDINTANVIR1&theme=highcontrast"/></a>
+    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFUDDINTANVIR1"><img alt="Tanvir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MDASHRAFUDDINTANVIR1&show_icons=true&theme=merko" width=55%/></a>
+    <a href="https://github.com/MDASHRAFTANVIR/MDASHRAFUDDINTANVIR1"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDASHRAFUDDINTANVIR1&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   
 </details>
